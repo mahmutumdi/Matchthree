@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bf76556aa5c4a0799ed3383b89724f5, type: 3}
+  m_Name: TurkishLanguageData
+  m_EditorClassIdentifier: 
+  _langMapDict:
+    _tKeys:
+    - SoundTMP
+    - SettingsAboutTMP
+    - StartTMP
+    - LanguageTMP
+    - MusicTMP
+    - SocialTMP
+    - AboutTMP
+    - AboutDeveloperTMP
+    - AboutContributorsTMP
+    - AboutDevYearTMP
+    - VibrationTMP
+    - HeaderHighscoreTMP
+    - HeaderMusicSoundTMP
+    _tValues:
+    - Ses
+    - "Ayarlar & Hakk\u0131nda"
+    - "Ba\u015Fla"
+    - Dil
+    - "M\xFCzik"
+    - "Sosyal & \u0130nternet"
+    - "Hakk\u0131nda"
+    - "Geli\u015Ftirici: Mahmut Umdi"
+    - "Katk\u0131: Poyraz Sensei"
+    - "Geli\u015Ftirme Y\u0131l\u0131: 2024"
+    - "Titre\u015Fim"
+    - "En Y\xFCksek Puan"
+    - "M\xFCzik & Ses"
+  languageName: Turkish
+  keys:
+  - AboutContributorsTMP
+  - AboutDeveloperTMP
+  - AboutDevYearTMP
+  - AboutTMP
+  - LanguageTMP
+  - MusicTMP
+  - SettingsAboutTMP
+  - SocialTMP
+  - SoundTMP
+  - StartTMP
+  - VibrationTMP
+  - HeaderHighscoreTMP
+  - HeaderMusicSoundTMP
+  values:
+  - "Katk\u0131 Sa\u011Flayanlar: Poyraz Sensei"
+  - "Geli\u015Ftirici: Mahmut Umdi"
+  - "Geli\u015Ftirme Y\u0131l\u0131: 2024"
+  - "Hakk\u0131nda"
+  - Dil
+  - "M\xFCzik"
+  - "Ayarlar & Hakk\u0131nda"
+  - "Sosyal & \u0130nternet"
+  - Ses
+  - "Ba\u015Fla"
+  - "Titre\u015Fim"
+  - "En Y\xFCksek Puan"
+  - "M\xFCzik & Ses"

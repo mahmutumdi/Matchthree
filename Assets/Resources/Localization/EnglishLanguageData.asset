@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bf76556aa5c4a0799ed3383b89724f5, type: 3}
+  m_Name: EnglishLanguageData
+  m_EditorClassIdentifier: 
+  _langMapDict:
+    _tKeys:
+    - SoundTMP
+    - SettingsAboutTMP
+    - StartTMP
+    - LanguageTMP
+    - MusicTMP
+    - SocialTMP
+    - AboutTMP
+    - AboutDeveloperTMP
+    - AboutDevYearTMP
+    - AboutContributorsTMP
+    - VibrationTMP
+    - HeaderHighscoreTMP
+    - HeaderMusicSoundTMP
+    _tValues:
+    - Sound
+    - Settings & About
+    - Start
+    - Language
+    - Music
+    - Social & Web
+    - About
+    - 'Developer: Mahmut Umdi'
+    - 'Development Year: 2024'
+    - 'Contributors: Poyraz Sensei'
+    - Vibration
+    - Highscore
+    - Music & Sound
+  languageName: English
+  keys:
+  - AboutContributorsTMP
+  - AboutDeveloperTMP
+  - AboutDevYearTMP
+  - AboutTMP
+  - LanguageTMP
+  - MusicTMP
+  - SettingsAboutTMP
+  - SocialTMP
+  - SoundTMP
+  - StartTMP
+  - VibrationTMP
+  - HeaderHighscoreTMP
+  - HeaderMusicSoundTMP
+  values:
+  - 'Contributors: Poyraz Sensei'
+  - 'Developer: Mahmut Umdi'
+  - 'Development Year: 2024'
+  - About
+  - Language
+  - Music
+  - Settings & About
+  - Social & Web
+  - Sound
+  - Start
+  - Vibration
+  - Highscore
+  - Music & Sound

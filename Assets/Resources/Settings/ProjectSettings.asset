@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c495668538e5804c85e89e79bf1bc8d, type: 3}
+  m_Name: ProjectSettings
+  m_EditorClassIdentifier: 
+  _gridManagerSettings:
+    _tileBGPrefab: {fileID: 8316498409409126010, guid: 270eeae525ead724b9143b6a5f2a49c0, type: 3}
+    _tilePrefabs:
+    - {fileID: 5370355520936199678, guid: 929e969c4b4846a44b28fb6e03ba417f, type: 3}
+    - {fileID: 5238522243009001837, guid: bd253b75e2e20924e955d62ffe28f191, type: 3}
+    - {fileID: 7062056022428829584, guid: 34f58bc11c6c1ad4f917bc955a9d4ee7, type: 3}
+    - {fileID: 1628912755847589581, guid: 33e0ff04e8c412840ad55260c6deca42, type: 3}
+    _prefabIds: 00000000010000000200000003000000
+    _tilePowerupPrefabs:
+    - {fileID: 6170815965197962572, guid: 28c086cad6067124da69e7bb772a0b35, type: 3}
+    - {fileID: 5783194776321313416, guid: a0c00dc7420a0a64d890c2166e9308a1, type: 3}
+    - {fileID: 8953249448890424341, guid: 2eceb1aa4f259f940a0d7d0066c72586, type: 3}
+    _powerupPrefabIds: 040000000500000006000000
+    _borderTopLeft: {fileID: 3062199391276187277, guid: 97301929f5c1f3d40a0fef468f33e5e7, type: 3}
+    _borderTopRight: {fileID: 8968511373491274285, guid: 8902d8a2aba424d47b8c5d7c70cb42be, type: 3}
+    _borderBotLeft: {fileID: 472419657978565995, guid: fccd50246adfb66438d042b2296cc9b9, type: 3}
+    _borderBotRight: {fileID: 9048541661675470702, guid: 59d3509f966ec014ebdc4ce13b837c64, type: 3}
+    _borderLeft: {fileID: 8726962916915950020, guid: 3426c34b074ad654a89b38bc5a3279c6, type: 3}
+    _borderRight: {fileID: 6404522839265622734, guid: d25afa0f62e18434cb1f28a76bfb83bc, type: 3}
+    _borderTop: {fileID: 1348804851085916135, guid: bb26702c6ce71e0428c23b7a459d5459, type: 3}
+    _borderBot: {fileID: 2612022805005301219, guid: 54dad54111d679e4985700260616ef07, type: 3}
+    _matchParticlePrefab: {fileID: 1643897319102355353, guid: 09ed6fb698b46074cad26be594c2869f, type: 3}
+    _bombParticlePrefab: {fileID: 1643897319102355353, guid: 7b03bd62ffdf8fa48931178a67507d97, type: 3}
+    _verticalParticlePrefab: {fileID: 1643897319102355353, guid: 2667da57311b17f41a778817737711a9, type: 3}
+    _horizontalParticlePrefab: {fileID: 1643897319102355353, guid: 05023686e991cb54991595688d85a238, type: 3}
+  _languages:
+    _tKeys: 0000000001000000
+    _tValues:
+    - {fileID: 11400000, guid: eaf581e94abe17e42801dc89ff95b8b5, type: 2}
+    - {fileID: 11400000, guid: 6b0c08401bef82e4bbec3f25cc42f873, type: 2}
+  _audioManagerSettings:
+    _audioClips:
+    - {fileID: 8300000, guid: 4b5e52f2c4baabc4ba8f20a949fceead, type: 3}
+    _normalTileDestroySound: {fileID: 8300000, guid: c37838e23935a314cb09e1f83c215b64, type: 3}
+    _powerupTileDestroySound: {fileID: 8300000, guid: dc4fa3b4e75bbf24e8e51bc9f17ac22a, type: 3}
